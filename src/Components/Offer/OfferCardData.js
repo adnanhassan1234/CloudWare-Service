@@ -1,0 +1,52 @@
+
+const OfferCardData = [
+    {
+       title: "Download App",
+       price:  'RS. 8,999/Month',
+       service1:  'Intel Xeon D-2141 I (4.20 GHz Octa Core W/HT)',
+       service2:  '32 GB DDR4 RAM',
+       service3:  '1TB SSD (RAID 1)',
+       service4:  '4 Dedicated IPv4',
+       service5:  'Remote And VNC Access',
+       service6:  'SSH Access On Linux',
+       service7:  'Remote Connection On Windows',
+       service8:  '12 TB Bandwidth',
+       service9:  'DDoS Protection Included',
+       service10:  'All Linux Versions',
+       service11:  'All Windows Versions',
+    },
+    {
+        border: "#136492",
+        title: "Cloud Server",
+        price:  'RS. 8,999/Month',
+        service1:  'Intel Xeon D-2141 I (4.20 GHz Octa Core W/HT)',
+        service2:  '32 GB DDR4 RAM',
+        service3:  '1TB SSD (RAID 1)',
+        service4:  '4 Dedicated IPv4',
+        service5:  'Remote And VNC Access',
+        service6:  'SSH Access On Linux',
+        service7:  'Remote Connection On Windows',
+        service8:  '12 TB Bandwidth',
+        service9:  'DDoS Protection Included',
+        service10:  'All Linux Versions',
+        service11:  'All Windows Versions',
+     },
+     {
+        
+        title: "Backup & Storage",
+        price:  'RS. 8,999/Month',
+        service1:  'Intel Xeon D-2141 I (4.20 GHz Octa Core W/HT)',
+        service2:  '32 GB DDR4 RAM',
+        service3:  '1TB SSD (RAID 1)',
+        service4:  '4 Dedicated IPv4',
+        service5:  'Remote And VNC Access',
+        service6:  'SSH Access On Linux',
+        service7:  'Remote Connection On Windows',
+        service8:  '12 TB Bandwidth',
+        service9:  'DDoS Protection Included',
+        service10:  'All Linux Versions',
+        service11:  'All Windows Versions',
+     },
+  ];
+  
+  export default OfferCardData;
